@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: 3D Model Viewer
+description: A responsive 3D model viewer built with Three.js
+show_downloads: true
